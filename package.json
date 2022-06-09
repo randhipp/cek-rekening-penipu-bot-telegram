@@ -1,0 +1,22 @@
+{
+  "name": "bot-cekrekening",
+  "version": "1.0.0",
+  "description": "bot telegram untuk cek rekening penipuan",
+  "main": "index.js",
+  "author": "randhi.pp@gmail.com",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "got": "^12.1.0",
+    "node-telegram-bot-api": "^0.57.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

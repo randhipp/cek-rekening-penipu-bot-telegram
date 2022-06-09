@@ -1,0 +1,578 @@
+[
+    {
+      "id": 1,
+      "bankName": "BRI - Bank Rakyat Indonesia",
+      "information": null,
+      "pathLogoColor": "thumb_bank.png",
+      "pathLogoBlack": "thumb_bank.png",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 2,
+      "bankName": "Bank Mandiri",
+      "information": null,
+      "pathLogoColor": "fab0316777f1e21b9bfbbe888872df29.png",
+      "pathLogoBlack": "bank.png",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 3,
+      "bankName": "Bank Mega",
+      "information": null,
+      "pathLogoColor": "new_logo_baru_bank_mega_vector.jpg",
+      "pathLogoBlack": "bank.png",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 4,
+      "bankName": "BCA - Bank Central Asia",
+      "information": null,
+      "pathLogoColor": "Bank_Central_Asia.png",
+      "pathLogoBlack": "bank.png",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 5,
+      "bankName": "BNI - Bank Negara Indonesia",
+      "information": null,
+      "pathLogoColor": "bank.png",
+      "pathLogoBlack": "bank.png",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 6,
+      "bankName": "Bank DKI",
+      "information": null,
+      "pathLogoColor": "bank.png",
+      "pathLogoBlack": "bank.png",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 7,
+      "bankName": "Bank Syariah Mandiri",
+      "information": null,
+      "pathLogoColor": "bank.png",
+      "pathLogoBlack": "bank.png",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 8,
+      "bankName": "BTN - Bank Tabungan Negara",
+      "information": null,
+      "pathLogoColor": "bank.png",
+      "pathLogoBlack": "bank.png",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 9,
+      "bankName": "Bank Artha Graha",
+      "information": null,
+      "pathLogoColor": "bank.png",
+      "pathLogoBlack": "bank.png",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 10,
+      "bankName": "Bank Permata",
+      "information": null,
+      "pathLogoColor": "bank.png",
+      "pathLogoBlack": "bank.png",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 11,
+      "bankName": "Bank Bukopin",
+      "information": null,
+      "pathLogoColor": "bank.png",
+      "pathLogoBlack": "bank.png",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 12,
+      "bankName": "Bank OCBC NISP",
+      "information": null,
+      "pathLogoColor": "bank.png",
+      "pathLogoBlack": "bank.png",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 13,
+      "bankName": "Bank Maybank Indonesia",
+      "information": null,
+      "pathLogoColor": "bank.png",
+      "pathLogoBlack": "bank.png",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 14,
+      "bankName": "Bank BPD",
+      "information": null,
+      "pathLogoColor": "thumb_bank.png",
+      "pathLogoBlack": null,
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 15,
+      "bankName": "Bank Lainnya",
+      "information": null,
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 16,
+      "bankName": "Bank Jabar Banten",
+      "information": null,
+      "pathLogoColor": "bank.png",
+      "pathLogoBlack": "bank.png",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 17,
+      "bankName": "Bank Danamon",
+      "information": null,
+      "pathLogoColor": "",
+      "pathLogoBlack": "",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 18,
+      "bankName": "Bank CIMB Niaga",
+      "information": null,
+      "pathLogoColor": "Logo-CIMB-Niaga-Transparent-background.png",
+      "pathLogoBlack": "bank.png",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 19,
+      "bankName": "Bank BTPN",
+      "information": null,
+      "pathLogoColor": "",
+      "pathLogoBlack": "",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 20,
+      "bankName": "Bank UOB",
+      "information": null,
+      "pathLogoColor": "",
+      "pathLogoBlack": "",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 21,
+      "bankName": "Bank Muamalat",
+      "information": null,
+      "pathLogoColor": "",
+      "pathLogoBlack": "",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 22,
+      "bankName": "Bank BRI Syariah",
+      "information": null,
+      "pathLogoColor": "",
+      "pathLogoBlack": "",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 23,
+      "bankName": "Bank BNI Syariah",
+      "information": null,
+      "pathLogoColor": "",
+      "pathLogoBlack": "",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 25,
+      "bankName": "BSI - Bank Syariah Indonesia",
+      "information": null,
+      "pathLogoColor": "",
+      "pathLogoBlack": "",
+      "tipebank": 1,
+      "prefix": null
+    },
+    {
+      "id": 24,
+      "bankName": "E-Wallet (Ovo, Gopay, Dana, dll)",
+      "information": null,
+      "pathLogoColor": "",
+      "pathLogoBlack": "",
+      "tipebank": 2,
+      "prefix": null
+    },
+    {
+      "id": 29,
+      "bankName": "Doku",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "856666"
+    },
+    {
+      "id": 31,
+      "bankName": "Dana BCA",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "3901"
+    },
+    {
+      "id": 32,
+      "bankName": "Dana BNI",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "8810"
+    },
+    {
+      "id": 33,
+      "bankName": "Dana BRI",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "8881"
+    },
+    {
+      "id": 34,
+      "bankName": "Dana BTPN",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "8000009"
+    },
+    {
+      "id": 35,
+      "bankName": "Dana BTN",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "8528"
+    },
+    {
+      "id": 36,
+      "bankName": "Dana Mandiri",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "89508"
+    },
+    {
+      "id": 37,
+      "bankName": "Dana CIMB Niaga",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "8059"
+    },
+    {
+      "id": 38,
+      "bankName": "Dana Bank Lain",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "8528"
+    },
+    {
+      "id": 27,
+      "bankName": "Gopay BCA",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "70001"
+    },
+    {
+      "id": 39,
+      "bankName": "Gopay BNI",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "9003"
+    },
+    {
+      "id": 40,
+      "bankName": "Gopay BRI",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "301341"
+    },
+    {
+      "id": 41,
+      "bankName": "Gopay BTN",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "99000"
+    },
+    {
+      "id": 42,
+      "bankName": "Gopay CIMB Niaga",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "2849"
+    },
+    {
+      "id": 43,
+      "bankName": "LinkAja BCA",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "09110"
+    },
+    {
+      "id": 44,
+      "bankName": "LinkAja ATM Bersama",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "911"
+    },
+    {
+      "id": 30,
+      "bankName": "ShopeePay Mandiri",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "89308"
+    },
+    {
+      "id": 45,
+      "bankName": "ShopeePay BCA",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "122"
+    },
+    {
+      "id": 46,
+      "bankName": "ShopeePay BNI",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "8807"
+    },
+    {
+      "id": 47,
+      "bankName": "ShopeePay BRI",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "1120"
+    },
+    {
+      "id": 48,
+      "bankName": "ShopeePay BSI",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "6080"
+    },
+    {
+      "id": 49,
+      "bankName": "ShopeePay Permata",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "7060"
+    },
+    {
+      "id": 28,
+      "bankName": "OVO BCA",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "39358"
+    },
+    {
+      "id": 50,
+      "bankName": "OVO Mandiri",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "60001"
+    },
+    {
+      "id": 51,
+      "bankName": "OVO BNI",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "874"
+    },
+    {
+      "id": 52,
+      "bankName": "OVO CIMB Niaga",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "8099"
+    },
+    {
+      "id": 53,
+      "bankName": "OVO Permata Bank",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "84"
+    },
+    {
+      "id": 58,
+      "bankName": "Dompetku",
+      "information": "ewallet",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "01293"
+    },
+    {
+      "id": 59,
+      "bankName": "E wallet unutk testing",
+      "information": "E wallet unutk testing",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 2,
+      "prefix": "99999"
+    },
+    {
+      "id": 60,
+      "bankName": "Bank Jago",
+      "information": "Bank Jago",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 1,
+      "prefix": ""
+    },
+    {
+      "id": 61,
+      "bankName": "Bank Sahabat Sampoerna",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 1,
+      "prefix": ""
+    },
+    {
+      "id": 62,
+      "bankName": "Bank NOBU",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 1,
+      "prefix": ""
+    },
+    {
+      "id": 63,
+      "bankName": "Bank Panin",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 1,
+      "prefix": ""
+    },
+    {
+      "id": 64,
+      "bankName": "bank Sinarmas",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 1,
+      "prefix": ""
+    },
+    {
+      "id": 65,
+      "bankName": "Bank MNC",
+      "information": "Bank MNC",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 1,
+      "prefix": ""
+    },
+    {
+      "id": 66,
+      "bankName": "Bank Mayapada",
+      "information": "Bank Mayapada",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 1,
+      "prefix": ""
+    },
+    {
+      "id": 67,
+      "bankName": "Bank Capital",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 1,
+      "prefix": ""
+    },
+    {
+      "id": 68,
+      "bankName": "Bank Raya",
+      "information": "",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 1,
+      "prefix": ""
+    },
+    {
+      "id": 69,
+      "bankName": "Bank Dana Syariah",
+      "information": "Bank Dana Syariah",
+      "pathLogoColor": null,
+      "pathLogoBlack": null,
+      "tipebank": 1,
+      "prefix": ""
+    }
+  ]
